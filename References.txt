@@ -6,6 +6,7 @@ The first two ressources i used were these:
 03d - UPDATE How to set up Python and VS Code.pdf
 
 They are both content from the course "Entwicklungen von Web-Anwendungen" on Moodle.
+(created by Prof. Alexander Eck)
 
 The following are the external ressources:
 
